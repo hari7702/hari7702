@@ -11,7 +11,7 @@
 ## 🔧 Projects & Contributions
 - **[Bankruptcy Prevention Model](https://github.com/hari7702/Bankruptcy-Prevention):** A predictive model using machine learning to assess the risk of bankruptcy.
 - **[Customer Segmentation Analysis](https://github.com/hari7702/Customer-Segmentation-Analysis):** Applied clustering algorithms to enhance marketing strategies.
-- **[Sales Dashboard](https://github.com/hari7702):** An interactive Power BI dashboard tracking key sales performance metrics.
+- **[Sales Dashboard](https://github.com/hari7702/Power-BI-Projects):** An interactive Power BI dashboard tracking key sales performance metrics.
 - **[Airline Management System](https://github.com/hari7702/Airline-Management-System):** A comprehensive Salesforce CRM for managing flight schedules and bookings.
 
 ## 🎯 Goals
