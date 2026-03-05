@@ -154,3 +154,9 @@ Salesforce-based CRM system for managing airline operations including scheduling
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hari7702/count.svg)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hari7702/hari7702/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
