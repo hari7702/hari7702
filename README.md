@@ -133,20 +133,12 @@ Salesforce-based CRM system for managing airline operations including scheduling
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+## 📊 GitHub Stats
+![Hari Prasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7702&show_icons=true&theme=radical)
 
-# 📊 GitHub Stats
+## 📈 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7702&layout=compact&theme=radical)
 
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7702\&show_icons=true\&theme=radical)
-
----
-
-# 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7702\&layout=compact\&theme=radical)
-
----
-
-# 👀 Visitor Count
-
+## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/hari7702/count.svg)
+
